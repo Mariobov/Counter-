@@ -1,1 +1,3 @@
-# Counter-
+# Counter App- Mario Bove
+
+Ho realizzato quest'app come descritto nel progetto. Ho deciso di chiamare i bottoni "decrease" e "increase" solo per una questione di estetica e perché lo ritengo più attraente agli occhi delle persone. Nel file js ho usato le tecniche viste durante il corso e ho usato questa scrittura che a mio avviso è molto più pulita e decifrabile per chiunque veda il mio progetto. Ho deciso di abbellirlo il giusto, niente di particolare, perché lo scopo non era principalmente quello. Ho caricato il progetto sia su github che, come viene suggerito nel corso, in un host free, ovvero Netlify. Il link che porta all'app è il seguente: https://appcounter-mariobove.netlify.app/. Ho personalmente testato il sito su diversi dispositivi ed è tutto ok. Spero vi possa piacere nonostante la semplicità.
